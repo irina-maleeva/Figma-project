@@ -1,0 +1,35 @@
+*{
+    font-family: Roboto Slab;
+    font-style: normal;
+}
+h1{
+    width: 170.08px;
+height: 43.34px;
+left: 36px;
+top: 56px;
+
+font-family: Roboto Slab;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 101.38%;
+/* or 26px */
+
+
+color: #000000;
+}
+
+@media (despktop)
+h1{
+    width: 365px;
+    height: 93px;
+    left: 124px;
+    top: 91px;
+    
+    font-size: 55px;
+    line-height: 101.38%;
+    /* or 56px */
+      
+}
+
+@media ()
